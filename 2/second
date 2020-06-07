@@ -1,0 +1,50 @@
+
+
+SpecialKey     xxx term=bold ctermfg=8 gui=italic guifg=#073642 guibg=#002b36
+	Last set from ~/.vimrc
+NonText        xxx term=bold ctermfg=0 gui=bold guifg=#073642
+	Last set from ~/.vimrc
+Directory      xxx term=bold cterm=bold ctermfg=118 gui=bold guifg=#A6E22E
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+ErrorMsg       xxx term=standout cterm=bold ctermfg=199 ctermbg=16 gui=bold guifg=#F92672 guibg=#232526
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+IncSearch      xxx term=reverse cterm=reverse ctermfg=193 ctermbg=16 gui=reverse guifg=#C4BE89 guibg=#000000
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Search         xxx term=reverse ctermfg=0 ctermbg=222 guifg=#000000 guibg=#FFE792
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+MoreMsg        xxx term=bold ctermfg=229 gui=bold guifg=#E6DB74
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+ModeMsg        xxx term=bold cterm=bold ctermfg=229 gui=bold guifg=#E6DB74
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+LineNr         xxx term=underline ctermfg=250 ctermbg=236 guifg=#465457 guibg=#232526
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+CursorLineNr   xxx term=bold cterm=underline ctermfg=11 ctermbg=236 guifg=#073642
+	Last set from ~/.vimrc
+Question       xxx term=standout ctermfg=81 gui=bold guifg=#66D9EF
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+StatusLine     xxx term=bold,reverse cterm=bold,reverse ctermfg=238 ctermbg=253 gui=bold,reverse guifg=#455354 guibg=fg
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+StatusLineNC   xxx term=reverse cterm=reverse ctermfg=244 ctermbg=232 gui=reverse guifg=#808080 guibg=#080808
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+VertSplit      xxx term=reverse cterm=bold ctermfg=244 ctermbg=232 gui=bold guifg=#808080 guibg=#080808
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Title          xxx term=bold ctermfg=166 gui=bold guifg=#ef5939
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Visual         xxx term=reverse ctermbg=235 guibg=#403D3D
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+VisualNOS      xxx term=bold,underline cterm=bold,underline ctermbg=238 gui=bold,underline guibg=#403D3D
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+WarningMsg     xxx term=standout cterm=bold ctermfg=231 ctermbg=238 gui=bold guifg=#FFFFFF guibg=#333333
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+WildMenu       xxx term=standout ctermfg=81 ctermbg=16 guifg=#66D9EF guibg=#000000
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Folded         xxx term=standout ctermfg=67 ctermbg=16 guifg=#465457 guibg=#000000
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+FoldColumn     xxx term=standout ctermfg=67 ctermbg=16 guifg=#465457 guibg=#000000
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+DiffAdd        xxx term=bold ctermbg=24 guibg=#13354A
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+DiffChange     xxx term=bold ctermfg=181 ctermbg=239 guifg=#89807D guibg=#4C4745
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim

@@ -1,0 +1,923 @@
+
+
+SpecialKey     xxx term=bold ctermfg=8 gui=italic guifg=#073642 guibg=#002b36
+	Last set from ~/.vimrc
+NonText        xxx term=bold ctermfg=0 gui=bold guifg=#073642
+	Last set from ~/.vimrc
+Directory      xxx term=bold cterm=bold ctermfg=118 gui=bold guifg=#A6E22E
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+ErrorMsg       xxx term=standout cterm=bold ctermfg=199 ctermbg=16 gui=bold guifg=#F92672 guibg=#232526
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+IncSearch      xxx term=reverse cterm=reverse ctermfg=193 ctermbg=16 gui=reverse guifg=#C4BE89 guibg=#000000
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Search         xxx term=reverse ctermfg=0 ctermbg=222 guifg=#000000 guibg=#FFE792
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+MoreMsg        xxx term=bold ctermfg=229 gui=bold guifg=#E6DB74
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+ModeMsg        xxx term=bold cterm=bold ctermfg=229 gui=bold guifg=#E6DB74
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+LineNr         xxx term=underline ctermfg=250 ctermbg=236 guifg=#465457 guibg=#232526
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+CursorLineNr   xxx term=bold cterm=underline ctermfg=11 ctermbg=236 guifg=#073642
+	Last set from ~/.vimrc
+Question       xxx term=standout ctermfg=81 gui=bold guifg=#66D9EF
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+StatusLine     xxx term=bold,reverse cterm=bold,reverse ctermfg=238 ctermbg=253 gui=bold,reverse guifg=#455354 guibg=fg
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+StatusLineNC   xxx term=reverse cterm=reverse ctermfg=244 ctermbg=232 gui=reverse guifg=#808080 guibg=#080808
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+VertSplit      xxx term=reverse cterm=bold ctermfg=244 ctermbg=232 gui=bold guifg=#808080 guibg=#080808
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Title          xxx term=bold ctermfg=166 gui=bold guifg=#ef5939
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Visual         xxx term=reverse ctermbg=235 guibg=#403D3D
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+VisualNOS      xxx term=bold,underline cterm=bold,underline ctermbg=238 gui=bold,underline guibg=#403D3D
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+WarningMsg     xxx term=standout cterm=bold ctermfg=231 ctermbg=238 gui=bold guifg=#FFFFFF guibg=#333333
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+WildMenu       xxx term=standout ctermfg=81 ctermbg=16 guifg=#66D9EF guibg=#000000
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Folded         xxx term=standout ctermfg=67 ctermbg=16 guifg=#465457 guibg=#000000
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+FoldColumn     xxx term=standout ctermfg=67 ctermbg=16 guifg=#465457 guibg=#000000
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+DiffAdd        xxx term=bold ctermbg=24 guibg=#13354A
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+DiffChange     xxx term=bold ctermfg=181 ctermbg=239 guifg=#89807D guibg=#4C4745
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+DiffDelete     xxx term=bold ctermfg=162 ctermbg=53 gui=bold guifg=#960050 guibg=#1E0010
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+DiffText       xxx term=reverse cterm=bold ctermbg=102 gui=bold,italic guibg=#4C4745
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+SignColumn     xxx term=standout ctermfg=118 ctermbg=235 guifg=#A6E22E guibg=#232526
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Conceal        xxx ctermfg=7 ctermbg=242 guifg=LightGrey guibg=DarkGrey
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+SpellBad       xxx term=reverse ctermbg=52 gui=undercurl guisp=#FF0000
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+SpellCap       xxx term=reverse ctermbg=17 gui=undercurl guisp=#7070F0
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+SpellRare      xxx term=reverse cterm=reverse gui=undercurl guisp=#FFFFFF
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+SpellLocal     xxx term=underline ctermbg=17 gui=undercurl guisp=#70F0F0
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Pmenu          xxx ctermfg=0 ctermbg=248 guifg=#66D9EF guibg=#000000
+	Last set from ~/.vimrc
+PmenuSel       xxx ctermfg=0 ctermbg=15 guibg=#808080
+	Last set from ~/.vimrc
+PmenuSbar      xxx ctermbg=232 guibg=#080808
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+PmenuThumb     xxx ctermfg=81 ctermbg=15 guifg=#66D9EF guibg=White
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+TabLine        xxx term=underline cterm=underline ctermfg=15 ctermbg=242 guifg=#808080 guibg=#1B1D1E
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+TabLineSel     xxx term=bold cterm=bold gui=bold
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+TabLineFill    xxx term=reverse cterm=reverse gui=reverse guifg=#1B1D1E guibg=#1B1D1E
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+CursorColumn   xxx term=reverse ctermbg=236 guibg=#293739
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+CursorLine     xxx term=underline ctermbg=234 guibg=#293739
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+ColorColumn    xxx term=reverse ctermbg=236 guibg=#232526
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+MatchParen     xxx term=reverse cterm=bold ctermfg=233 ctermbg=208 gui=bold guifg=#000000 guibg=#FD971F
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Comment        xxx term=bold ctermfg=59 guifg=#7E8E91
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Constant       xxx term=underline cterm=bold ctermfg=135 gui=bold guifg=#AE81FF
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Special        xxx term=bold ctermfg=81 gui=italic guifg=#66D9EF guibg=bg
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Identifier     xxx term=underline ctermfg=208 guifg=#FD971F
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Statement      xxx term=bold cterm=bold ctermfg=161 gui=bold guifg=#F92672
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+PreProc        xxx term=underline ctermfg=118 guifg=#A6E22E
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Type           xxx term=underline ctermfg=81 guifg=#66D9EF
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Underlined     xxx term=underline cterm=underline ctermfg=244 gui=underline guifg=#808080
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Ignore         xxx ctermfg=244 ctermbg=232 guifg=#808080 guibg=bg
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Error          xxx term=reverse ctermfg=219 ctermbg=89 guifg=#E6DB74 guibg=#1E0010
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Todo           xxx term=standout cterm=bold ctermfg=231 ctermbg=232 gui=bold guifg=#FFFFFF guibg=bg
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+String         xxx ctermfg=227 guifg=#E6DB74
+	Last set from ~/.vimrc
+Character      xxx ctermfg=144 guifg=#E6DB74
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Number         xxx ctermfg=135 guifg=#AE81FF
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Boolean        xxx ctermfg=135 guifg=#AE81FF
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Float          xxx ctermfg=135 guifg=#AE81FF
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Function       xxx ctermfg=118 guifg=#A6E22E
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Conditional    xxx cterm=bold ctermfg=161 gui=bold guifg=#F92672
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Repeat         xxx cterm=bold ctermfg=161 gui=bold guifg=#F92672
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Label          xxx ctermfg=229 guifg=#E6DB74
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Operator       xxx ctermfg=161 guifg=#F92672
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Keyword        xxx cterm=bold ctermfg=161 gui=bold guifg=#F92672
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Exception      xxx cterm=bold ctermfg=118 gui=bold guifg=#A6E22E
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Include        xxx links to PreProc
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/syncolor.vim
+Define         xxx ctermfg=81 guifg=#66D9EF
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Macro          xxx ctermfg=193 gui=italic guifg=#C4BE89
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+PreCondit      xxx cterm=bold ctermfg=118 gui=bold guifg=#A6E22E
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+StorageClass   xxx ctermfg=208 gui=italic guifg=#FD971F
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Structure      xxx ctermfg=81 guifg=#66D9EF
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Typedef        xxx ctermfg=81 guifg=#66D9EF
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Tag            xxx ctermfg=161 gui=italic guifg=#F92672
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+SpecialChar    xxx cterm=bold ctermfg=161 gui=bold guifg=#F92672
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Delimiter      xxx ctermfg=241 guifg=#8F8F8F
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+SpecialComment xxx cterm=bold ctermfg=245 gui=bold guifg=#7E8E91
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Debug          xxx cterm=bold ctermfg=225 gui=bold guifg=#BCA3A3
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Cursor         xxx ctermfg=16 ctermbg=253 guifg=#000000 guibg=#F8F8F0
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+iCursor        xxx guifg=#000000 guibg=#F8F8F0
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+Normal         xxx ctermfg=252 ctermbg=233 guifg=#F8F8F2 guibg=#1B1D1E
+	Last set from ~/.vim/bundle/color_schemes/colors/molokai.vim
+ExtraWhitespace xxx ctermbg=9 guibg=red
+	Last set from ~/.vimrc
+scalaCaseFollowing xxx links to Special
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaExternal  xxx ctermfg=1
+	Last set from ~/.vimrc
+scalaInstanceDeclaration xxx ctermfg=42
+	Last set from ~/.vimrc
+scalaKeywordModifier xxx cterm=underline ctermfg=197
+	Last set from ~/.vimrc
+htmlError      xxx links to Error
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlSpecialChar xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+javaScriptExpression xxx links to javaScript
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlString     xxx links to String
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlValue      xxx links to String
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlTagN       xxx cleared
+htmlTagError   xxx links to htmlError
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlEndTag     xxx links to Identifier
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlArg        xxx links to Type
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlEvent      xxx links to javaScript
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlCssDefinition xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlTag        xxx links to Function
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlTagName    xxx links to htmlStatement
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlSpecialTagName xxx links to Exception
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlCommentPart xxx links to Comment
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlCommentError xxx links to htmlError
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlComment    xxx links to Comment
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlPreStmt    xxx links to PreProc
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlPreError   xxx links to Error
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlPreAttr    xxx links to String
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlPreProc    xxx links to PreProc
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlPreProcAttrError xxx links to Error
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlPreProcAttrName xxx links to PreProc
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlLink       xxx links to Underlined
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+javaScript     xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlBoldUnderline xxx term=bold,underline cterm=bold,underline gui=bold,underline
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlBoldItalic xxx term=bold,italic cterm=bold,italic gui=bold,italic
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlBold       xxx term=bold cterm=bold gui=bold
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlBoldUnderlineItalic xxx term=bold,underline,italic cterm=bold,underline,italic gui=bold,underline,italic
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlBoldItalicUnderline xxx links to htmlBoldUnderlineItalic
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlUnderlineBold xxx links to htmlBoldUnderline
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlUnderlineItalic xxx term=underline,italic cterm=underline,italic gui=underline,italic
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlUnderline  xxx term=underline cterm=underline gui=underline
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlUnderlineBoldItalic xxx links to htmlBoldUnderlineItalic
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlUnderlineItalicBold xxx links to htmlBoldUnderlineItalic
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlItalicBold xxx links to htmlBoldItalic
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlItalicUnderline xxx links to htmlUnderlineItalic
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlItalic     xxx term=italic cterm=italic gui=italic
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlItalicBoldUnderline xxx links to htmlBoldUnderlineItalic
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlItalicUnderlineBold xxx links to htmlBoldUnderlineItalic
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlLeadingSpace xxx links to None
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlH1         xxx links to Title
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlH2         xxx links to htmlH1
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlH3         xxx links to htmlH2
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlH4         xxx links to htmlH3
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlH5         xxx links to htmlH4
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlH6         xxx links to htmlH5
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlTitle      xxx links to Title
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+cssStyle       xxx cleared
+htmlHead       xxx links to PreProc
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+javaScriptCommentTodo xxx links to Todo
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptLineComment xxx links to Comment
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptCvsTag xxx links to Function
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptComment xxx links to Comment
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptDocTags xxx links to Special
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptDocComment xxx links to Comment
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptDocParam xxx links to Function
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptDocSeeTag xxx links to Function
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptSpecial xxx links to Special
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptStringD xxx links to String
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptStringS xxx links to String
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptRegexpString xxx links to String
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptNumber xxx links to Number
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptFloat xxx links to Number
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptLabel xxx links to Label
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptPrototype xxx links to Type
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptSource xxx links to Special
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptType xxx links to Type
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptOperator xxx links to Operator
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptBoolean xxx links to Boolean
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptNull xxx links to Type
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptConditional xxx links to Conditional
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptRepeat xxx links to Repeat
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptBranch xxx links to Conditional
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptStatement xxx links to Statement
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptGlobalObjects xxx links to Special
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptExceptions xxx links to Special
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptFutureKeys xxx cleared
+javaScriptDomErrNo xxx links to Constant
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptDomNodeConsts xxx links to Constant
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptHtmlEvents xxx links to Special
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptParen xxx cleared
+javaScriptCssStyles xxx links to Label
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptDomElemAttrs xxx links to Label
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptDomElemFuncs xxx links to PreProc
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptHtmlElemAttrs xxx links to Label
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptHtmlElemFuncs xxx links to PreProc
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptFunction xxx links to Function
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptDotNotation xxx cleared
+javaScriptBracket xxx cleared
+javaScriptParensErrB xxx links to Error
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptParensErrC xxx links to Error
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptBlock xxx cleared
+javaScriptParensErrA xxx links to Error
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptParensError xxx links to Error
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptFuncName xxx cleared
+javaScriptFuncBlock xxx cleared
+javaScriptOpAssign xxx cleared
+javaScriptCharacter xxx links to Character
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptError xxx links to Error
+	Last set from ~/.vim/bundle/vim-javascript/syntax/javascript.vim
+javaScriptParenError xxx cleared
+htmlCssStyleComment xxx links to Comment
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlScriptTag  xxx links to htmlTag
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlEventSQ    xxx links to htmlEvent
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlEventDQ    xxx links to htmlEvent
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+vbConditional  xxx links to Conditional
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbOperator     xxx links to Operator
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbBoolean      xxx links to Boolean
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbConst        xxx links to Constant
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbRepeat       xxx links to Repeat
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbEvents       xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbFunction     xxx links to Identifier
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbMethods      xxx links to PreProc
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbStatement    xxx links to Statement
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbKeyword      xxx links to Statement
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbTodo         xxx links to Todo
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbTypes        xxx links to Type
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbDefine       xxx links to Constant
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbNumber       xxx links to Number
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbFloat        xxx links to Float
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbString       xxx links to String
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbComment      xxx links to Comment
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbLineNumber   xxx links to Comment
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbTypeSpecifier xxx links to Type
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbError        xxx links to Error
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+vbIdentifier   xxx links to Identifier
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/vb.vim
+cssTagName     xxx links to Statement
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssDeprecated  xxx links to Error
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssSelectorOp  xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssSelectorOp2 xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssUnicodeEscape xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssStringQ     xxx links to String
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssStringQQ    xxx links to String
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssAttributeSelector xxx links to String
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssClassNameDot xxx links to Function
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssClassName   xxx links to Function
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssIdentifier  xxx links to Function
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssUnitDecorators xxx links to Number
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssValueInteger xxx links to Number
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssValueNumber xxx links to Number
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssValueLength xxx links to Number
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssValueAngle  xxx links to Number
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssValueTime   xxx links to Number
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssValueFrequency xxx links to Number
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssIncludeKeyword xxx links to atKeyword
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMediaProp   xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMediaKeyword xxx links to Statement
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMediaAttr   xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssVendor      xxx links to Comment
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMediaType   xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMediaComma  xxx links to Normal
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssComment     xxx links to Comment
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMediaBlock  xxx cleared
+cssInclude     xxx links to Include
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssBraces      xxx links to Function
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssColor       xxx links to Constant
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssURL         xxx links to String
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssImportant   xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssError       xxx links to Error
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssFunction    xxx links to Constant
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssDefinition  xxx cleared
+cssPseudoClass xxx cleared
+cssPagePseudo  xxx links to PreProc
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPageWrap    xxx cleared
+cssPage        xxx links to atKeyword
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPageMargin  xxx links to atKeyword
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPageProp    xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssAttrRegion  xxx cleared
+cssHacks       xxx links to Comment
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssKeyFrameWrap xxx cleared
+cssKeyFrame    xxx links to atKeyword
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssKeyFrameSelector xxx links to Constant
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssFontDescriptorBlock xxx cleared
+cssFontDescriptor xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssFontProp    xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssFontAttr    xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssCommonAttr  xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssFontDescriptorProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssFontDescriptorFunction xxx links to Constant
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssUnicodeRange xxx links to Constant
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssFontDescriptorAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssFunctionName xxx links to Function
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssFunctionComma xxx links to Function
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssGradientAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssAnimationProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssAnimationAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssBackgroundProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssBackgroundAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssBorderProp  xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssBorderAttr  xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssBoxProp     xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssBoxAttr     xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssColorProp   xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssDimensionProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssFlexibleBoxProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssFlexibleBoxAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMultiColumnProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMultiColumnAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssGeneratedContentProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssGeneratedContentAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssGridProp    xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssHyerlinkProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssListProp    xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssListAttr    xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPositioningProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPositioningAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPrintAttr   xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssTableProp   xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssTableAttr   xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssTextProp    xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssTextAttr    xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssTransformProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssTransitionProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssTransitionAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssUIProp      xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssUIAttr      xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssIEUIAttr    xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssIEUIProp    xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssAuralProp   xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssAuralAttr   xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMobileTextProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssBraceError  xxx links to Error
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssAttrComma   xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssNoise       xxx links to Noise
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPseudoClassId xxx links to PreProc
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPseudoClassFn xxx cleared
+cssSpecialCharQQ xxx cleared
+cssSpecialCharQ xxx cleared
+cssProp        xxx links to StorageClass
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssContentForPagedMediaProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssLineboxProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMarqueeProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPagedMediaProp xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPrintProp   xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssRubyProp    xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssSpeechProp  xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssRenderProp  xxx links to cssProp
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssAttr        xxx links to Constant
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssContentForPagedMediaAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssDimensionAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssGridAttr    xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssHyerlinkAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssLineboxAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMarginAttr  xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMarqueeAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPaddingAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPagedMediaAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssRubyAttr    xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssSpeechAttr  xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssTransformAttr xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssRenderAttr  xxx links to cssAttr
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssPseudoClassLang xxx links to Constant
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+atKeyword      xxx links to Comment
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+cssMedia       xxx links to atKeyword
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/css.vim
+Noise          xxx cleared
+cssLength      xxx cleared
+cssString      xxx cleared
+htmlStyleArg   xxx links to htmlString
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+htmlStatement  xxx links to Statement
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+None           xxx cleared
+htmlSpecial    xxx links to Special
+	Last set from /usr/local/Cellar/vim/7.4.488/share/vim/vim74/syntax/html.vim
+scalaKeyword   xxx links to Keyword
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaNameDefinition xxx links to Function
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaQuasiQuotes xxx cleared
+scalaBlock     xxx cleared
+scalaAkkaSpecialWord xxx links to PreProc
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaSymbol    xxx links to Number
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaChar      xxx links to Character
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaEscapedChar xxx links to Function
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaUnicodeChar xxx links to Special
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaOperator  xxx links to Special
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaPostNameDefinition xxx cleared
+scalaTypeDeclaration xxx links to Type
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaInstanceHash xxx links to Type
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaUnimplemented xxx links to Error
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaCapitalWord xxx links to Special
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTypeTypeDeclaration xxx links to Type
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaSquareBrackets xxx cleared
+scalaTypeTypeEquals xxx cleared
+scalaTypeStatement xxx cleared
+scalaTypeTypeExtension xxx links to Keyword
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaRoundBrackets xxx cleared
+scalaTypeTypePostDeclaration xxx links to Special
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTypeTypePostExtension xxx links to Keyword
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTypeExtension xxx links to Keyword
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTypePostExtension xxx links to Keyword
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTypeAnnotation xxx links to Normal
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaSpecial   xxx links to PreProc
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaStringEmbeddedQuote xxx links to String
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaString    xxx links to String
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaInterpolationBrackets xxx links to Special
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaInterpolation xxx links to Function
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaInterpolationB xxx links to Normal
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaIString   xxx links to String
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTripleIString xxx links to String
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaInterpolationBoundary xxx links to Function
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaFInterpolation xxx links to Function
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaFInterpolationB xxx links to Normal
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaFString   xxx links to String
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTripleString xxx links to String
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTripleFString xxx links to String
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaNumber    xxx links to Number
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaSquareBracketsBrackets xxx links to Type
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTypeOperator xxx links to Keyword
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTypeAnnotationParameter xxx links to Function
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaShebang   xxx links to Comment
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaMultilineComment xxx links to Comment
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaDocLinks  xxx links to Function
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaParameterAnnotation xxx links to Function
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaCommentAnnotation xxx links to Function
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTodo      xxx links to Todo
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaCommentCodeBlock xxx links to String
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaParamAnnotationValue xxx links to Keyword
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaCommentCodeBlockBrackets xxx links to String
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaAnnotation xxx links to PreProc
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaTrailingComment xxx links to Comment
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaAkkaFSMGotoUsing xxx links to PreProc
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+scalaAkkaFSM   xxx links to PreProc
+	Last set from ~/.vim/bundle/vim-scala/syntax/scala.vim
+level2         xxx cleared
+level3         xxx cleared
+level4         xxx cleared
+level5         xxx cleared
+level6         xxx cleared
+level7         xxx cleared
+level8         xxx cleared
+level9         xxx cleared
+level10        xxx cleared
+level11        xxx cleared
+level12        xxx cleared
+level13        xxx cleared
+level14        xxx cleared
+level15        xxx cleared
+level16        xxx cleared
+NoInParens     xxx cleared
+level1c        xxx ctermfg=130 guifg=RoyalBlue3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level1         xxx cleared
+level2c        xxx ctermfg=4 guifg=SeaGreen3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level3c        xxx ctermfg=242 guifg=DarkOrchid3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level4c        xxx ctermfg=2 guifg=firebrick3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level5c        xxx ctermfg=6 guifg=RoyalBlue3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level6c        xxx ctermfg=1 guifg=SeaGreen3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level7c        xxx ctermfg=5 guifg=DarkOrchid3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level8c        xxx ctermfg=130 guifg=firebrick3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level9c        xxx ctermfg=248 guifg=RoyalBlue3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level10c       xxx ctermfg=0 guifg=SeaGreen3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level11c       xxx ctermfg=5 guifg=DarkOrchid3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level12c       xxx ctermfg=4 guifg=firebrick3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level13c       xxx ctermfg=2 guifg=RoyalBlue3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level14c       xxx ctermfg=6 guifg=SeaGreen3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level15c       xxx ctermfg=0 guifg=DarkOrchid3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+level16c       xxx ctermfg=9 guifg=firebrick3
+	Last set from ~/.vim/bundle/rainbow_parentheses.vim/autoload/rainbow_parentheses.vim
+airline_x_inactive xxx ctermfg=239 ctermbg=234 guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_x_inactive_bold xxx term=bold cterm=bold ctermfg=239 ctermbg=234 gui=bold guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_x_inactive_red xxx ctermfg=160 ctermbg=234 guifg=#ff0000 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_y_inactive xxx ctermfg=239 ctermbg=234 guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_y_inactive_bold xxx term=bold cterm=bold ctermfg=239 ctermbg=234 gui=bold guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_y_inactive_red xxx ctermfg=160 ctermbg=234 guifg=#ff0000 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_z_inactive xxx ctermfg=239 ctermbg=234 guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_z_inactive_bold xxx term=bold cterm=bold ctermfg=239 ctermbg=234 gui=bold guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_z_inactive_red xxx ctermfg=160 ctermbg=234 guifg=#ff0000 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_a_inactive xxx ctermfg=239 ctermbg=234 guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_a_inactive_bold xxx term=bold cterm=bold ctermfg=239 ctermbg=234 gui=bold guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_a_inactive_red xxx ctermfg=160 ctermbg=234 guifg=#ff0000 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_b_inactive xxx ctermfg=239 ctermbg=234 guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_b_inactive_bold xxx term=bold cterm=bold ctermfg=239 ctermbg=234 gui=bold guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_b_inactive_red xxx ctermfg=160 ctermbg=234 guifg=#ff0000 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_c_inactive xxx ctermfg=239 ctermbg=234 guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_c_inactive_bold xxx term=bold cterm=bold ctermfg=239 ctermbg=234 gui=bold guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_c_inactive_red xxx ctermfg=160 ctermbg=234 guifg=#ff0000 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_warning_inactive xxx ctermfg=232 ctermbg=166 guifg=#000000 guibg=#df5f00
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_warning_inactive_bold xxx term=bold cterm=bold ctermfg=232 ctermbg=166 gui=bold guifg=#000000 guibg=#df5f00
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_warning_inactive_red xxx ctermfg=160 ctermbg=166 guifg=#ff0000 guibg=#df5f00
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_x      xxx ctermfg=27 ctermbg=234 guifg=#F5F5F5 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_x_bold xxx term=bold cterm=bold ctermfg=27 ctermbg=234 gui=bold guifg=#F5F5F5 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_x_red  xxx ctermfg=160 ctermbg=234 guifg=#ff0000 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_y      xxx ctermfg=144 ctermbg=237 guifg=#AFAF87 guibg=#5F5F5F
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_y_bold xxx term=bold cterm=bold ctermfg=144 ctermbg=237 gui=bold guifg=#AFAF87 guibg=#5F5F5F
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_y_red  xxx ctermfg=160 ctermbg=237 guifg=#ff0000 guibg=#5F5F5F
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_z      xxx ctermfg=15 ctermbg=27 guifg=#FFFFFF guibg=#5F87FF
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_z_bold xxx term=bold cterm=bold ctermfg=15 ctermbg=27 gui=bold guifg=#FFFFFF guibg=#5F87FF
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_z_red  xxx ctermfg=160 ctermbg=27 guifg=#ff0000 guibg=#5F87FF
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_a      xxx ctermfg=15 ctermbg=27 guifg=#FFFFFF guibg=#5F87FF
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_a_bold xxx term=bold cterm=bold ctermfg=15 ctermbg=27 gui=bold guifg=#FFFFFF guibg=#5F87FF
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_a_red  xxx ctermfg=160 ctermbg=27 guifg=#ff0000 guibg=#5F87FF
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_b      xxx ctermfg=144 ctermbg=237 guifg=#AFAF87 guibg=#5F5F5F
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_b_bold xxx term=bold cterm=bold ctermfg=144 ctermbg=237 gui=bold guifg=#AFAF87 guibg=#5F5F5F
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_b_red  xxx ctermfg=160 ctermbg=237 guifg=#ff0000 guibg=#5F5F5F
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_c      xxx ctermfg=27 ctermbg=234 guifg=#F5F5F5 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_c_bold xxx term=bold cterm=bold ctermfg=27 ctermbg=234 gui=bold guifg=#F5F5F5 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_c_red  xxx ctermfg=160 ctermbg=234 guifg=#ff0000 guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_warning xxx ctermfg=232 ctermbg=166 guifg=#000000 guibg=#df5f00
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_warning_bold xxx term=bold cterm=bold ctermfg=232 ctermbg=166 gui=bold guifg=#000000 guibg=#df5f00
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_warning_red xxx ctermfg=160 ctermbg=166 guifg=#ff0000 guibg=#df5f00
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_a_to_airline_b xxx ctermfg=27 ctermbg=237
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_b_to_airline_c xxx ctermfg=237 ctermbg=234
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_c_to_airline_x xxx ctermfg=234 ctermbg=234
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_x_to_airline_y xxx ctermfg=237 ctermbg=234
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_y_to_airline_z xxx ctermfg=27 ctermbg=237
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_z_to_airline_warning xxx ctermfg=166 ctermbg=27
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
+airline_c1_inactive xxx ctermfg=239 ctermbg=234 guifg=#4E4E4E guibg=#1C1C1C
+	Last set from ~/.vim/bundle/vim-airline/autoload/airline/highlighter.vim
